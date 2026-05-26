@@ -6,24 +6,16 @@
 
 🎯 gosto de resolver problemas, escrever código limpo e participar de projetos desafiadores — principalmente quando envolvem aprendizado e evolução constante.
 
-📚 atualmente estou no **2º termo de Sistemas de Informação na Unoeste**, cursando:
-- Algoritmos e Técnicas de Programação II
-- Ambientes de Programação II
-- Arquitetura de Computadores
-- Ciência de Dados
-- Fundamentos de Sistemas de Informação
+📚 atualmente estou no **3º termo de Sistemas de Informação na Unoeste**, cursando:
+- Estrutura de Dados I
+- Ferramentas Computacionais I
+- Gestão da Informação e de Sistemas de Informação
+- Gestão de Processos
+- Matemática Discreta
+- Probabilidade e Estatística
+- Empreendedorismo e Inovação
 
 ---
-
-## 🔭 atualmente trabalhando em:
-- projetos pessoais usando **Laravel** e **MySQL**
-- melhorias nos meus projetos de portfólio
-
-## 🌱 atualmente aprendendo:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="20" height="20" /> Laravel
-   
-          
-
 
 ## 📫 como falar comigo:
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20"/>  [LinkedIn](https://www.linkedin.com/in/laura-pimenta-de-oliveira-820a32341)
